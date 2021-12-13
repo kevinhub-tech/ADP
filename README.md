@@ -41,3 +41,5 @@ At the end of the module, a fully-integrated Liferay portal was developed and th
 <img src="https://github.com/kevinhub-tech/ADP/blob/main/Screenshot/admin.png" width="100%"></img>
 
 <img src="https://github.com/kevinhub-tech/ADP/blob/main/Screenshot/user.png" width="100%"></img>
+
+To check out more about the implementation, [Click here!](https://docs.google.com/presentation/d/1MxlLW-zBvyu4Vgxbkbw7krCPa_9qIeO1/edit?usp=sharing&ouid=102153107342853816794&rtpof=true&sd=true)
