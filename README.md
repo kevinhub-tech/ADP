@@ -3,11 +3,11 @@
 
 ### Project Description 
 
-Another framework of Java was integrated into the module which is the Liferay framwork. The framework was written in Java and the project was to develope a portal with Liefray. Long story short, here is the scanerio given and a bunch of objectives to be achieved for this project.
+Another framework of Java was integrated into the module which is the Liferay framework. The framework was written in Java and the project was to develop a portal with Liefray. Long story short, here is the scanerio given and a bunch of objectives to be achieved for this project.
 
 - Developing a service portal with Liferay Framework
 - Design the process to develope a portal 
-- Implement a system of admin and users in the portal for mmanagement
+- Implement a system of admin and users in the portal for management
 - Insisted on using object-oriented design patterns
 
 The project was objected to learn about the framework and how to operate within the range of availability of the framework.
